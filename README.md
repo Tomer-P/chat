@@ -22,11 +22,11 @@ Python (Socket programming, Select, Datetime).
 💻 How to Run
 Start the Server:
 Open a terminal in the project folder and run:
-python chat_server.py
+python server.py
 
 Start the Client:
 Open a new terminal and run:
-python chat_client.py
+python client.py
 
 Connection:
 After the client launches, enter 1 to log in with a username, then choose an action from the menu.
